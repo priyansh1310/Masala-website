@@ -1,0 +1,41 @@
+/* navigation bar */
+.navbar{
+    background: red;
+    justify-content: center;
+    display: flex;
+    gap: 120px
+}
+
+.name{
+    justify-content: center;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+}
+
+.a1{
+    justify-content: center;
+    display: flex;
+    padding-top: 60px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black;
+}
+
+.buttonlg{
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 10rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 30px;
+    width: 110px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border-radius: 50px;
+    box-shadow: 0.5rem 0.5rem 0.5rem black;
+    background: none;
+}
